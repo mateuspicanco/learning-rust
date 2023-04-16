@@ -1,6 +1,8 @@
-# A Data Scientist attempts to learn Rust
+# data scientist attempts to learn Rust :crab:
 
-As the title suggests, this repo countains me journey trying to learn Rust and figure out stuff that I could use it for. One of my goals for 2023 was to learn a new programming language well and use it my day-to-day. With all the jazz surrounding Rust, I figured it would be something great to learn, as it covers pretty much anything with it comes to programming.
+As the title suggests, this repo contains my journey trying to learn Rust and figure out stuff that I could use it for in place of Python. 
+
+One of my goals for 2023 was to learn a new programming language well and use it my day-to-day. With all the jazz surrounding Rust, I figured it would be something great to learn, as it covers pretty much anything with it comes to programming.
 
 This repo follows the structure suggested by the [No Boilerplate](https://www.youtube.com/watch?v=2hXNd6x9sZs&t=558s) in his guide to learning Rust, which is me going over the following materials:
 
