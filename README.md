@@ -13,3 +13,7 @@ This repo follows the structure suggested by the [No Boilerplate](https://www.yo
 
 The repo will also host my notes and the small projects I plan to do along the way.
 
+## defining some goals
+To make the process more fun, I will try to implement a few simple and common data science tasks. Let's start with the following:
+1. [ ] Load a dataset and perform a series of processing steps to it and save it somewhere else;
+2. [ ] Implement a Linear Regression model and evaluate it;
