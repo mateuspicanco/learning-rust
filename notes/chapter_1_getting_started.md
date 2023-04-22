@@ -16,3 +16,10 @@
     - `src/main.rs`: a sample hello world file;
     - Initializes a git repo with a gitignore file as well.
       - To override this, use `cargo new --vcs=none` (no version control system). This is useful if a project is placed in an existing git repo.
+- In the `Cargo.toml`, the package definition is described, along with its version and edition. Unclear to me what an edition means.
+- In the `[dependencies]` section, we list the `crates` (rust's equivalent to pip packages I suppose) that the project requires.
+- `cargo run` builds the executable from the code in the project and runs it right after. It is more common than running `cargo build` first.
+- `cargo check` checks the code for compile issues but does not produce an executable.
+- `cargo build --release`: an option to build an optimized version of the executable, it takes longer to compile that the regular command (debug version). The resulting file is stored on `target/release` instead of `target/debug`.
+  
+  
